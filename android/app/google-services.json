@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "206086674414",
+    "project_id": "flyweb-donald",
+    "storage_bucket": "flyweb-donald.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206086674414:android:9fc483e645fc8673cd20ff",
+        "android_client_info": {
+          "package_name": "com.donald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206086674414-3sdpgegv6cpb03fno9s2dbgud1169lbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2FSFVUV0LsXoEbkP5GizM13epi_UCoPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206086674414-3sdpgegv6cpb03fno9s2dbgud1169lbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206086674414-98hk04uoo6u7kf10gv9kf0ilv4alokab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.donald"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
